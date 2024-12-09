@@ -20,6 +20,6 @@
 6. Applying PCA to reduce dimesnion of data
 7. Training various machine learning classification models and selecting the best ones
 8. Screening drug bank molecules uing trained models to get potential active molecules
-**Result:** After screening we got 103 potential active molecules and virtual screening performed on these molecules.
+* **Result:** After screening we got 103 potential active molecules and virtual screening performed on these molecules.
 
 **Learning:** In this project I have learned how to use machine learning algorithms when we have very less data available
